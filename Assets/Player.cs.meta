@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 919f42f368ca02d49999ac7492d3e2cc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - body: {instanceID: 0}
+  - score: {instanceID: 0}
+  - ani: {instanceID: 0}
+  - upSprite: {fileID: 21300000, guid: 0ff44f5fc7fb69b43b8b8dbae4f4a3f1, type: 3}
+  - downSprite: {instanceID: 0}
+  - rightSprite: {instanceID: 0}
+  - leftSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
